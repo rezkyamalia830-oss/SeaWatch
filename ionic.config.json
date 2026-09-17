@@ -1,0 +1,7 @@
+{
+  "name": "SeaWatch",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
