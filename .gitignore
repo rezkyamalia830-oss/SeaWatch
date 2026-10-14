@@ -30,3 +30,21 @@ npm-debug.log*
 /platforms
 /plugins
 /www
+
+
+# Keystore dan kredensial signing Android
+keystore.properties
+*.jks
+*.keystore
+
+# File sensitif lainnya
+.env
+.env.*
+!.env.example
+
+# Dependensi dan hasil build
+node_modules/
+dist/
+android/local.properties
+android/.gradle/
+android/**/build/
